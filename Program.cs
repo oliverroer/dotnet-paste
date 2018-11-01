@@ -1,11 +1,8 @@
 ﻿using System;
 
-namespace DotNetPaste
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
+namespace DotNetPaste {
+    class Program {
+        static void Main(string[] args) {
             Console.WriteLine("Hello World!");
         }
     }
